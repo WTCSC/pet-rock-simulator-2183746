@@ -4,6 +4,10 @@
 
 The pet rock simulator let's you interact with your pet rock.
 
+## About the game
+
+Pet rock simulator is designed to take you through a day in the life of owning a pet rock. Your going to choice different ways to intereact with your pet rock.
+
 ## Requirements
 
 * Python 3
@@ -11,4 +15,22 @@ The pet rock simulator let's you interact with your pet rock.
 
 ## Usage Example 
 
-1. 
+1. clone repository from Github
+
+2. open terminal
+
+3. run
+
+## Features
+
+1. Custom names
+
+2. Stat tracking 
+
+3. Player actions 
+
+4. Custom Game over messages 
+
+## Contributing 
+
+If you have any comments, suggestions, concerns, etc please comment through github feedback
